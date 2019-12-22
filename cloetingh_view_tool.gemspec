@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A gem to display a copyright symbol and current year.}
   spec.description   = %q{Provides generated HTML data for rails apps.}
-  spec.homepage      = "https://tcloetingh.com"
+  spec.homepage      = "https://github.com/tcloetingh/My_First_Gem"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
